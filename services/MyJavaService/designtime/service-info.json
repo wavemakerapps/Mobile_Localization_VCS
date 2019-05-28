@@ -1,0 +1,7 @@
+{
+  "id" : "MyJavaService",
+  "type" : "JavaService",
+  "packageNames" : [ "com.mobile_localization.myjavaservice" ],
+  "serviceClassNames" : [ "com.mobile_localization.myjavaservice.MyJavaService" ],
+  "title" : "MyJavaService"
+}
