@@ -6,7 +6,7 @@ var _WM_APP_PROPERTIES = {
   "homePage" : "Main",
   "name" : "Mobile_Localization_VCS",
   "platformType" : "MOBILE",
-  "securityEnabled" : "false",
+  "securityEnabled" : "true",
   "supportedLanguages" : "en,fr,hi-in,te-in",
   "timeFormat" : "",
   "type" : "APPLICATION",
